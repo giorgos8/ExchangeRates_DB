@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# My Ignores
+ExchangeRates_DB.sln
+ExchangeRates_DB.sqlproj
+ExchangeRates_DB.sqlproj.user
